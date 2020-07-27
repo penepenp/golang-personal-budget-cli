@@ -5,3 +5,5 @@ type Budget struct {
 }
 
 // Item stores item information
+type Item struct {
+}
